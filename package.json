@@ -1,0 +1,16 @@
+{
+  "name": "xiggit-modern-hrtech-platform",
+  "version": "1.0.0",
+  "description": "Sample code from the \"Building a modern HRTech platform that is 100% Serverless\" article",
+  "main": "index.js",
+  "repository": "git@github.com:mikeblanton/xiggit-modern-hrtech-platform.git",
+  "author": "Michael Blanton <blanton@xiggit.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "dynamoose": "^2.8.3",
+    "express": "^4.17.2",
+    "serverless-http": "^2.7.0"
+  }
+}
